@@ -1,2 +1,2 @@
 
-# Typescript module
+# Typescript classes shema for college
